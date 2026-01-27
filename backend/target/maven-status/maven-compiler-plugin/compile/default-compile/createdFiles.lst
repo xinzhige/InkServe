@@ -1,8 +1,0 @@
-com/inkserve/service/MnistService$1.class
-com/inkserve/dto/RecognizeResponse$Score.class
-com/inkserve/dto/RecognizeResponse.class
-com/inkserve/dto/RecognizeRequest.class
-com/inkserve/web/RecognitionController.class
-com/inkserve/service/MnistService.class
-com/inkserve/service/MnistService$MnistTranslator.class
-com/inkserve/InkServeApplication.class
